@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MP3_1_Ignacio
+namespace BMI_CALC
 {
     class Program
     {
