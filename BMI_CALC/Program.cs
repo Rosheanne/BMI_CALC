@@ -11,7 +11,7 @@ namespace BMI_CALC
         static void Main(string[] args)
         {
             float weight, height, bmi;
-
+            //FORK KO DAW WHAHAHAHAHA ANGAS GANITO PALA EON HI IM SEAN
             Console.WriteLine("----BMI CALCULATOR----");
             Console.Write("Weight (kg): ");
             weight = float.Parse(Console.ReadLine());
